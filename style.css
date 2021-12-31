@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-list {
+    display: flex;
+}
+
+.navbar-item {
+    margin-left: 0.125em;
+}
