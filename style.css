@@ -9,5 +9,6 @@ ul {
 }
 
 .navbar-item {
+    list-style: none;
     margin-left: 5px;
 }
